@@ -1,0 +1,13 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.java": "java",
+    "*.c": "c",
+    "stdlib.h": "c",
+    "lista.h": "c",
+    "structs.h": "c",
+    "pilha.h": "c",
+    "string.h": "c"
+  }
+}
